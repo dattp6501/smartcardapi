@@ -1,0 +1,2 @@
+heroku war:deploy E:\workspace\website\smartcard\smartcardapi\target\smartcardapi.war --app smart-card-api
+https://smart-card-api.herokuapp.com/
